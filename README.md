@@ -24,10 +24,11 @@ Find more on
 ------
 ## Syllabus 
 
-Week 1
+### Week 1
 1. Decision Making: An Introduction
 
-   - [Slides](lec1/intro.pdf); [Slides with notes](lec1/intro_notes.pdf)
+   - [Slides](lecs/intro.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
