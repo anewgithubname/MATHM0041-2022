@@ -33,6 +33,10 @@ Find more on
 
    - [Slides](lecs/lec2.pdf)
 
+## Week 2
+3. Regularization and Probabilistic Models of Regression
+  - [Slides](lecs/lec3.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
