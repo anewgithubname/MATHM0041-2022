@@ -35,7 +35,10 @@ Find more on
 
 ## Week 2
 3. Regularization and Probabilistic Models of Regression
-  - [Slides](lecs/lec3.pdf)
+   - [Slides](lecs/lec3.pdf)
+
+4. Risks and Bayes Optimal Classifier
+   - [Slides](lecs/lec4.pdf)
 
 ----
 ## Support
