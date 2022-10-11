@@ -40,6 +40,13 @@ Find more on
 4. Risks and Bayes Optimal Classifier
    - [Slides](lecs/lec4.pdf), [Decision Boundary](lecs/decisionboundary_completesqurare.pdf), [Optimal Decision](lecs/proofs.png)
 
+## Week 3
+5. Gaussian Identities
+   - [Slides](lecs/summary.pdf)
+   - [Handwritten](lecs/handwritten_notes.pdf)
+   - [Computing Lab](lecs/cl.pdf)
+   - [Proof of 95% Confidence Region](lecs/nightyfive.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
