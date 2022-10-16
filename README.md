@@ -44,7 +44,7 @@ Find more on
 5. Gaussian Identities
    - [Slides](lecs/summary.pdf)
    - [Handwritten](lecs/handwritten_notes.pdf)
-   - [Computing Lab](lecs/cl.pdf)
+   - [Computing Lab](lecs/cl.pdf), [solution](lecs/homework.Rmd)
    - [Proof of 95% Confidence Region](lecs/nightyfive.pdf)
 
 ----

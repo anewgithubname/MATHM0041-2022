@@ -1,0 +1,56 @@
+---
+title: "R Notebook"
+output:
+  html_notebook: default
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code.
+
+```{r}
+sigma <- matrix(c(1,.5,.5,1), 2, 2)
+mu <- c(0,1)
+res <- eigen(sigma)
+
+n <- 1000
+y1 <- matrix(rnorm(n, sd = sqrt(res$values[1])), 1, n)
+y2 <- matrix(rnorm(n, sd = sqrt(res$values[2])), 1, n)
+y <- rbind(y1,y2)
+
+samples <- res$vectors%*%y + mu 
+
+"covariance"
+cov(t(samples))
+
+"mean"
+rowMeans(samples)
+```
+
+```{r}
+i <- 1
+xmarks <- seq(-5,5,.1)
+ymarks <- seq(-5,5,.1)
+z <- matrix(0, nrow = length(xmarks), ncol = length(ymarks))
+for (x in xmarks){
+  j <- 1
+  for (y in ymarks){
+    z[i,j] = (cbind(x, y) - mu)%*%solve(sigma)%*%(rbind(x, y) - mu)
+    j <- j + 1
+  }
+  i <- i + 1
+}
+
+contour(xmarks, ymarks, z, levels = 6)
+points(samples[1,],samples[2,],col='black')
+
+maha <- diag(t((samples - mu))%*%solve(sigma)%*%(samples-mu))
+points(samples[1,maha > 6],samples[2,maha > 6],col='red')
+
+"proportion of samples outside of 95% contour"
+sum(maha>6)/dim(samples)[2]
+
+
+
+```
