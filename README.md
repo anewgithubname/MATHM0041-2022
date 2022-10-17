@@ -47,6 +47,10 @@ Find more on
    - [Computing Lab](lecs/cl.pdf), [solution](lecs/homework.Rmd)
    - [Proof of 95% Confidence Region](lecs/nightyfive.pdf)
 
+## Week 4
+6. Bias-Variance Decomposition
+   -[Slides](lecs/lec7.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
