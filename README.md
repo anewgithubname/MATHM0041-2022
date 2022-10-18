@@ -51,6 +51,8 @@ Find more on
 6. Bias-Variance Decomposition
    -[Slides](lecs/lec7.pdf)
 
+7. Feature Transform and Kernel Methods
+   -[Slides](lecs/lec8.pdf)
 ----
 ## Support
 Post your questions on Blackboard.
