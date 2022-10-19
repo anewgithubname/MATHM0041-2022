@@ -50,6 +50,7 @@ Find more on
 ## Week 4
 6. Bias-Variance Decomposition
    -[Slides](lecs/lec7.pdf)
+   -[Additional Questions](/lecs/additional.pdf)
 
 7. Feature Transform and Kernel Methods
    -[Slides](lecs/lec8.pdf)
