@@ -35,10 +35,13 @@ Find more on
 
 ## Week 2
 3. Regularization and Probabilistic Models of Regression
-   - [Slides](lecs/lec3.pdf), [Full Bayesian Predictive Distribution](lecs/Proof3.pdf)
+   - [Slides](lecs/lec3.pdf)
+   - [Full Bayesian Predictive Distribution](lecs/Proof3.pdf)
 
 4. Risks and Bayes Optimal Classifier
-   - [Slides](lecs/lec4.pdf), [Decision Boundary](lecs/decisionboundary_completesqurare.pdf), [Optimal Decision](lecs/proofs.png)
+   - [Slides](lecs/lec4.pdf), 
+   - [Decision Boundary](lecs/decisionboundary_completesqurare.pdf), 
+   - [Optimal Decision](lecs/proofs.png)
 
 ## Week 3
 5. Gaussian Identities
