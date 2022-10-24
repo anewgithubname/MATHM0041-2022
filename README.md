@@ -53,10 +53,15 @@ Find more on
 ## Week 4
 6. Bias-Variance Decomposition
    - [Slides](lecs/lec7.pdf)
-   - [Additional Questions](/lecs/additional.pdf)
+   - [Additional Questions](lecs/additional.pdf), [Answers](/lecs/corollaries.pdf)
 
 7. Feature Transform and Kernel Methods
    - [Slides](lecs/lec8.pdf)
+
+
+# Week 5
+8. Probabilistic Model Selection
+   - [Slides](lecs/mosel.pdf)
 ----
 ## Support
 Post your questions on Blackboard.
