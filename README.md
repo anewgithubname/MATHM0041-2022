@@ -59,9 +59,14 @@ Find more on
    - [Slides](lecs/lec8.pdf)
 
 
-# Week 5
+## Week 5
 8. Probabilistic Model Selection
    - [Slides](lecs/mosel.pdf)
+
+## Week 6
+9. Linear Classification
+   - [Slides](lecs/lec10.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
