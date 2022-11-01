@@ -64,11 +64,11 @@ Find more on
    - [Slides](lecs/mosel.pdf)
 
 ## Week 6
-9. Linear Classification
+9. Linear Classifiers
    - [Slides](lecs/lec10.pdf)
-10. Discriminative Classification
-   - [Slides](lecs/lec11.pdf)
-   - [Computing Lab](lecs/perceptr.pdf)
+10. Discriminative Classifiers
+      - [Slides](lecs/lec11.pdf)
+      - [Computing Lab](lecs/perceptr.pdf)
  
 ----
 ## Support
