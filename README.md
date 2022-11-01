@@ -66,7 +66,10 @@ Find more on
 ## Week 6
 9. Linear Classification
    - [Slides](lecs/lec10.pdf)
-
+10. Discriminative Classification
+   - [Slides](lecs/lec11.pdf)
+   - [Computing Lab](lecs/perceptr.pdf)
+ 
 ----
 ## Support
 Post your questions on Blackboard.
