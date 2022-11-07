@@ -70,6 +70,10 @@ Find more on
       - [Slides](lecs/lec11.pdf)
       - [Computing Lab](lecs/perceptr.pdf)
  
+## Week 7
+11. Support Vector Machines
+   - [Slides](lecs/lec12.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
