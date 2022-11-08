@@ -74,7 +74,7 @@ Find more on
 11. Support Vector Machines
    - [Slides](lecs/lec12.pdf)
    - [Dual](lecs/dual.pdf)
-
+   - [Computing Lab](lecs/CL.pptx)
 ----
 ## Support
 Post your questions on Blackboard.
