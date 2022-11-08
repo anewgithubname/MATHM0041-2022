@@ -73,6 +73,7 @@ Find more on
 ## Week 7
 11. Support Vector Machines
    - [Slides](lecs/lec12.pdf)
+   - [Dual](lecs/dual.pdf)
 
 ----
 ## Support
