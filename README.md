@@ -75,6 +75,11 @@ Find more on
    - [Slides](lecs/lec12.pdf)
    - [Dual](lecs/dual.pdf)
    - [Computing Lab](lecs/CLsvm.pdf)
+
+## Week 8
+12. Probabilistic Graphical Models
+   - [Slides](lecs/lec13.pdf)
+
 ----
 ## Support
 Post your questions on Blackboard.
