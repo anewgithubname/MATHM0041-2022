@@ -78,7 +78,8 @@ Find more on
 
 ## Week 8
 12. Probabilistic Graphical Models
-   - [Slides](lecs/lec13.pdf)
+   - [Slides](lecs/lec13.pdf) 
+   - [Computing Lab](labs/../lecs/senate109.zip)
 
 ----
 ## Support
